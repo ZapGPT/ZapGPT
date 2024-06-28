@@ -2,9 +2,9 @@
 
 <p align="center">
     <a href="https://dify.ai/pricing" target="_blank">
-        <img width="160" alt="Static Badge" src="images/action.svg"></a>
+        <img width="150" alt="Static Badge" src="images/action.svg"></a>
     <a href="https://dify.ai/pricing" target="_blank">
-        <img width="160" alt="Static Badge" src="images/action-2.svg"></a>
+        <img width="150" alt="Static Badge" src="images/action-2.svg"></a>
 </p>
 
 
