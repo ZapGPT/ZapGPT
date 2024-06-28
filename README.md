@@ -15,7 +15,7 @@ Dify is an open-source LLM app development platform. Its intuitive interface com
   Build and test powerful AI workflows on a visual canvas, leveraging all the following features and beyond.
 
 
-  https://github.com/langgenius/dify/assets/13230914/356df23e-1604-483d-80a6-9517ece318aa
+  images/Workflow.png
 
 
 
