@@ -3,11 +3,6 @@
 <p align="center">
     <a href="https://dify.ai/pricing" target="_blank">
         <img width="160" height="45" alt="Static Badge" src="images/action.svg"></a>
-    <a href="https://discord.gg/FngNHpbcY7" target="_blank">
-        <img src="https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
-            alt="chat on Discord"></a>
-    <a href="https://hub.docker.com/u/langgenius" target="_blank">
-        <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/langgenius/dify-web?labelColor=%20%23FDB062&color=%20%23f79009"></a>
 </p>
 
 
