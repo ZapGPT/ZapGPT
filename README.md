@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://dify.ai/pricing" target="_blank">
-        <img width="150" alt="Static Badge" src="images/action-3.svg"></a>
+        <img width="150" alt="Static Badge" src="images/action.svg"></a>
     <a href="https://discord.gg/FngNHpbcY7" target="_blank">
         <img src="https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
             alt="chat on Discord"></a>
