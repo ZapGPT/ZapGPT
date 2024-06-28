@@ -1,4 +1,4 @@
- <img alt="Static Badge" src="images/artificial_intelligence.png"></a>
+<img alt="Static Badge" src="images/artificial_intelligence.png"></a>
 
 <p align="center">
     <a href="https://dify.ai/pricing" target="_blank">
@@ -7,100 +7,95 @@
         <img width="150" alt="Static Badge" src="images/action-2.svg"></a>
 </p>
 
-
-Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. Here's a list of the core features:
+Dify é uma plataforma de desenvolvimento de aplicativos LLM de código aberto. Sua interface intuitiva combina fluxo de trabalho de IA, pipeline RAG, capacidades de agentes, gerenciamento de modelos, recursos de observabilidade e muito mais, permitindo que você passe rapidamente do protótipo à produção. Aqui está uma lista das principais funcionalidades:
 </br> </br>
  <img alt="Static Badge" src="images/Home.png"></a>
 
-**1. Workflow**: 
-  Build and test powerful AI workflows on a visual canvas, leveraging all the following features and beyond.
-
+**1. Fluxo de Trabalho**: 
+  Construa e teste fluxos de trabalho de IA poderosos em uma tela visual, aproveitando todos os recursos a seguir e muito mais.
 
  <img alt="Static Badge" src="images/Workflow.png"></a>
 
-
-**2. Comprehensive model support**: 
-  Seamless integration with hundreds of proprietary / open-source LLMs from dozens of inference providers and self-hosted solutions, covering GPT, Mistral, Llama3, and any OpenAI API-compatible models. A full list of supported model providers can be found [here](https://docs.dify.ai/getting-started/readme/model-providers).
+**2. Suporte Abrangente a Modelos**: 
+  Integração perfeita com centenas de LLMs proprietários / de código aberto de dezenas de provedores de inferência e soluções auto-hospedadas, abrangendo GPT, Mistral, Llama3 e quaisquer modelos compatíveis com a API do OpenAI. Uma lista completa de provedores de modelos suportados pode ser encontrada [aqui](https://docs.dify.ai/getting-started/readme/model-providers).
 
 <img alt="Static Badge" src="images/LLM.png"></a>
 
+**3. IDE de Prompt**: 
+  Interface intuitiva para criar prompts, comparar desempenho de modelos e adicionar funcionalidades adicionais, como conversão de texto em fala em um aplicativo baseado em chat. 
 
-**3. Prompt IDE**: 
-  Intuitive interface for crafting prompts, comparing model performance, and adding additional features such as text-to-speech to a chat-based app. 
+**4. Pipeline RAG**: 
+  Capacidades extensivas de RAG que cobrem tudo, desde a ingestão de documentos até a recuperação, com suporte pronto para extração de texto de PDFs, PPTs e outros formatos de documentos comuns.
 
-**4. RAG Pipeline**: 
-  Extensive RAG capabilities that cover everything from document ingestion to retrieval, with out-of-box support for text extraction from PDFs, PPTs, and other common document formats.
-
-**5. Agent capabilities**: 
-  You can define agents based on LLM Function Calling or ReAct, and add pre-built or custom tools for the agent. Dify provides 50+ built-in tools for AI agents, such as Google Search, DELL·E, Stable Diffusion and WolframAlpha.
+**5. Capacidades de Agentes**: 
+  Você pode definir agentes com base na Chamada de Função LLM ou ReAct e adicionar ferramentas pré-construídas ou personalizadas para o agente. Dify oferece mais de 50 ferramentas integradas para agentes de IA, como Google Search, DELL·E, Stable Diffusion e WolframAlpha.
 
 **6. LLMOps**: 
-  Monitor and analyze application logs and performance over time. You could continuously improve prompts, datasets, and models based on production data and annotations.
+  Monitore e analise logs de aplicativos e desempenho ao longo do tempo. Você pode melhorar continuamente prompts, conjuntos de dados e modelos com base em dados de produção e anotações.
 
-**7. Backend-as-a-Service**: 
-  All of Dify's offerings come with corresponding APIs, so you could effortlessly integrate Dify into your own business logic.
+**7. Backend-como-um-Serviço**: 
+  Todas as ofertas do Dify vêm com APIs correspondentes, para que você possa integrar o Dify sem esforço na sua lógica de negócios.
 
-
-## Feature comparison
+## Comparação de Recursos
 <table style="width: 100%;">
   <tr>
-    <th align="center">Feature</th>
+    <th align="center">Recurso</th>
     <th align="center">Dify.AI</th>
     <th align="center">LangChain</th>
     <th align="center">Flowise</th>
-    <th align="center">OpenAI Assistants API</th>
+    <th align="center">API de Assistentes OpenAI</th>
   </tr>
   <tr>
-    <td align="center">Programming Approach</td>
-    <td align="center">API + App-oriented</td>
-    <td align="center">Python Code</td>
-    <td align="center">App-oriented</td>
-    <td align="center">API-oriented</td>
+    <td align="center">Abordagem de Programação</td>
+    <td align="center">Orientado para API + Aplicativo</td>
+    <td align="center">Código Python</td>
+    <td align="center">Orientado para Aplicativo</td>
+    <td align="center">Orientado para API</td>
   </tr>
   <tr>
-    <td align="center">Supported LLMs</td>
-    <td align="center">Rich Variety</td>
-    <td align="center">Rich Variety</td>
-    <td align="center">Rich Variety</td>
-    <td align="center">OpenAI-only</td>
+    <td align="center">LLMs Suportados</td>
+    <td align="center">Variedade Rica</td>
+    <td align="center">Variedade Rica</td>
+    <td align="center">Variedade Rica</td>
+    <td align="center">Somente OpenAI</td>
   </tr>
   <tr>
-    <td align="center">RAG Engine</td>
+    <td align="center">Motor RAG</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center">Agent</td>
+    <td align="center">Agente</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center">Workflow</td>
+    <td align="center">Fluxo de Trabalho</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center">Observability</td>
+    <td align="center">Observabilidade</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center">Enterprise Features (SSO/Access control)</td>
+    <td align="center">Recursos Empresariais (SSO/Controle de Acesso)</td>
     <td align="center">✅</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center">Local Deployment</td>
+    <td align="center">Implantação Local</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
@@ -108,15 +103,14 @@ Dify is an open-source LLM app development platform. Its intuitive interface com
   </tr>
 </table>
 
-## Using Dify
+## Usando o Dify
 
-- **Cloud </br>**
-We host a [Dify Cloud](https://dify.ai) service for anyone to try with zero setup. It provides all the capabilities of the self-deployed version, and includes 200 free GPT-4 calls in the sandbox plan.
+- **Nuvem </br>**
+Hospedamos um serviço [Dify Cloud](https://dify.ai) para qualquer pessoa experimentar sem configuração. Ele fornece todas as capacidades da versão auto-hospedada e inclui 200 chamadas gratuitas ao GPT-4 no plano sandbox.
 
-- **Self-hosting Dify Community Edition</br>**
-Quickly get Dify running in your environment with this [starter guide](#quick-start).
-Use our [documentation](https://docs.dify.ai) for further references and more in-depth instructions.
+- **Auto-hospedagem da Edição Comunitária do Dify</br>**
+Coloque rapidamente o Dify em funcionamento no seu ambiente com este [guia inicial](#quick-start).
+Use nossa [documentação](https://docs.dify.ai) para referências adicionais e instruções mais detalhadas.
 
-- **Dify for enterprise / organizations</br>**
-We provide additional enterprise-centric features. [Schedule a meeting with us](https://cal.com/guchenhe/30min) or [send us an email](mailto:business@dify.ai?subject=[GitHub]Business%20License%20Inquiry) to discuss enterprise needs.
-
+- **Dify para empresas / organizações</br>**
+Oferecemos recursos adicionais centrados em empresas. [Agende uma reunião conosco](https://cal.com/guchenhe/30min) ou [envie-nos um e-mail](mailto:business@dify.ai?subject=[GitHub]Business%20License%20Inquiry) para discutir necessidades empresariais.
