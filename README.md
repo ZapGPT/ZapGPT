@@ -17,7 +17,7 @@ ZapGPT é uma plataforma de desenvolvimento de aplicativos LLM de código aberto
  <img alt="Static Badge" src="images/Workflow.png"></a>
 
 **2. Suporte Abrangente a Modelos**: 
-  Integração perfeita com centenas de LLMs proprietários / de código aberto de dezenas de provedores de inferência e soluções auto-hospedadas, abrangendo GPT, Mistral, Llama3 e quaisquer modelos compatíveis com a API do OpenAI. Uma lista completa de provedores de modelos suportados pode ser encontrada [aqui](https://docs.ZapGPT.ai/getting-started/readme/model-providers).
+  Integração perfeita com centenas de LLMs proprietários / de código aberto de dezenas de provedores de inferência e soluções auto-hospedadas, abrangendo GPT, Mistral, Llama3 e quaisquer modelos compatíveis com a API do OpenAI.
 
 <img alt="Static Badge" src="images/LLM.png"></a>
 
