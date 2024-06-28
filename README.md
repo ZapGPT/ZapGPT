@@ -1,4 +1,4 @@
-![cover-v5-optimized](https://github.com/langgenius/dify/assets/13230914/f9e19af5-61ba-4119-b926-d10c4c06ebab)
+ <img alt="Static Badge" src="images/artificial_intelligence.png"></a>
 
 <p align="center">
     <a href="https://dify.ai/pricing" target="_blank">
