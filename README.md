@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://wa.me/message/LC7ABX3MOJEFL1" target="_blank">
         <img width="150" alt="Static Badge" src="images/action.svg"></a>
-    <a href="https://wa.me/message/LC7ABX3MOJEFL2" target="_blank">
+    <a href="https://wa.me/message/LC7ABX3MOJEFL1" target="_blank">
         <img width="150" alt="Static Badge" src="images/action-2.svg"></a>
 </p>
 
